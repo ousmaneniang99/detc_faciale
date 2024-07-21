@@ -1,6 +1,5 @@
-opencv-python-headless
-numpy
-Pillow
-opencv-data
 build-essential
 python3-dev
+libopencv-dev
+libopenblas-dev
+liblapack-dev
