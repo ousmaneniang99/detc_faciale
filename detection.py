@@ -1,6 +1,6 @@
 import streamlit as st
 import cv2
-import numpy as np
+#import numpy as np
 
 # Function to perform face detection
 def detect_faces(image, scaleFactor, minNeighbors):
